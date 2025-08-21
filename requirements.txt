@@ -1,0 +1,24 @@
+# Streamlit and web utilities
+streamlit
+pyngrok
+
+# LangChain core and community tools
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+# LangGraph and Groq
+langgraph
+langchain-groq
+
+# Search and API tools
+youtube-search-python
+wikipedia
+duckduckgo-search
+
+# Utilities
+typing-extensions
+json5
+
+python-dotenv
