@@ -12,6 +12,10 @@
    <b>An elegant, professional chatbot application built with Python and Streamlit, leveraging LangGraph for advanced conversational flows and modular tool integration.</b>
 </p>
 
+<p align="center">
+   <img src="ezgif.com-speed (6).gif" alt="MultiToolBot Demo" width="600">
+</p>
+
 ---
 
 ## ✨ Features
@@ -26,7 +30,7 @@
 ### 📦 Installation
 1. Clone the repository:
     ```sh
-    git clone <https://github.com/Sampavi01/MultiToolBot.git>
+    git clone https://github.com/Sampavi01/MultiToolBot.git
     cd MultiToolBot
     ```
 2. Install dependencies:
